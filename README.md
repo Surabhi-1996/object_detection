@@ -2,8 +2,6 @@
 
 ## We are using Cascade Classifier(Haar Cascade) to detect the object in an image.
 
-Here, we are using OpenCV(Computer Vision) for basic image operations.
-
 - Our goal will be to use Haar Cascades to blur license plates detected in an image!
 - Read in the car_plate.jpg file using OpenCV.
 - Visualize the image using matplotlib.
